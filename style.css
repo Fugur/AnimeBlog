@@ -1,0 +1,121 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab&amp;amp;amp;amp;display=swap);
+html{
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size:18px	
+}
+body{
+	padding:0;
+	margin:0;
+	background-color:#fff;color:#333
+}
+body>header{
+	padding:20px 50px;
+	background-color:#6c0aab;color:#fff
+}
+body>header img{
+	float:left;
+	margin-right:15px
+}
+body>header h1{
+	font-size:40px;
+	margin:0
+}
+body>header p{
+	font-size:19px;
+	margin:0
+}
+main{
+	padding:30px 50px
+}
+main article{
+	padding:25px 30px;
+	background-color:#f6f6f6;
+	margin-bottom:50px;
+}
+main article h2{
+	font-size:40px;
+	font-family:'Roboto Slab',serif;
+	margin-top:0;
+}
+main article img{
+	height:300px;
+	margin:0 20px 20px 0
+}
+main article p,main article h3,main article ul,main article ol{
+	color:#666
+	}
+footer{
+	background-color:#482049;padding:20px 50px
+	}
+footer p{
+	color:#fff;
+	font-size:18px;
+	margin:0
+	}
+main article ul li{
+	font-size: 35px;
+}
+header img{
+	max-width: 150px;
+}
+a{
+	text-decoration: none;
+	font-family: Comic Sans MS;
+}
+li{
+	list-style-type:none;
+	font-family: Comic Sans MS;
+}
+img {
+	border-radius: 50px;
+}
+
+.sites__list{
+	color:rgb(255, 98, 255);
+}
+.sites_right{
+	text-align: right;
+}
+.sites_center{
+	text-align: center;
+}
+.sites_left{
+	text-align: left;
+}
+.footer__contacts {
+	color: white;
+	float: left;
+	padding-right: 15px;
+}
+.footer__list{
+	padding-left: 15px;
+}
+.footer__list__item{
+	color: white;
+}
+.footer__list__item a{
+	color: rgb(230, 109, 109);
+}
+.footer__text{
+	text-align: right;
+}
+.footer__text__left{
+	margin-top: 15px;
+	text-align: left;
+}
+p {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 25px;
+}
+h4 {
+	font-size: 30px;
+}
+h3 {
+	font-size: 35px;
+}
+h2 { 
+	font-size: 40px;
+}
+h1 {
+	font-size: 50px;
+}
